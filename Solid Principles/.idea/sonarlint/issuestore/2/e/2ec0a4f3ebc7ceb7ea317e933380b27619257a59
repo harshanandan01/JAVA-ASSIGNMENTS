@@ -1,0 +1,8 @@
+
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚áï“üÿÿÿÿ8Æšß¿ð/
+j	java:S100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïã”¹8Éšß¿ð/
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«êËÔüÿÿÿÿ8Ëšß¿ð/
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³š©´þÿÿÿÿ8Íšß¿ð/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(™ù¬Æüÿÿÿÿ8Ðšß¿ð/
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»ÝÞà8Óšß¿ð/
