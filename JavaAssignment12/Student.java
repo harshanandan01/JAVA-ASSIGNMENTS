@@ -6,7 +6,7 @@ public class Student {
     int age; 
     String gender;
     String engDepartment;
-    int year_of_enrollment; 
+    int Year_of_enrollment; 
     double perTillDate;
 
     Student(int id,String name,int age,String gender,String engDepartment,int year_of_enrollment ,double perTillDate){
@@ -15,7 +15,7 @@ public class Student {
         this.age=age;
         this.gender=gender;
         this.engDepartment=engDepartment;
-        this.year_of_enrollment=year_of_enrollment;
+        this.Year_of_enrollment=Year_of_enrollment;
         this.perTillDate=perTillDate;
     }
 }
